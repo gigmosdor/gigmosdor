@@ -1,1 +1,24 @@
-גכעגעגכע
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>קטלוג</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            color: #333;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <h1>ברוכים הבאים לקטלוג</h1>
+</body>
+</html>
